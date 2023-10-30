@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Catarina Bento
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Catarina
+last_name: Bento
 
 # Status emoji
 status:
@@ -17,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Msc Student, Teching Assistant and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,22 +26,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+  - Distributed and Parallel Computing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Computer Science and Enginnering
+      institution: Instituto Superior Técnico
+      year: 2024
+    - course: BSc in Computer Science and Enginnering
+      institution: Instituto Superior Técnico
+      year: 2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
