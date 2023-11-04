@@ -11,13 +11,15 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
     design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: Technical Skills
+      text: **Languages:** Java | Python | C | C++ | JavaScript | Prolog | HTML | CSS | SQL **Frameworks:** OpenMP | OpenMPI | pandas | matplotlib | sklearn | VueJs | Spring Boot **Tools:** Amazon AWS | Pentaho Data Integration & Server | Saiku Analytics | MySQL | Figma | Git | Adobe XD | Android Studio
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
   - block: experience
     id: experience
@@ -48,7 +50,7 @@ sections:
           location: Lisboa, Portugal
           date_start: '2022-09-19'
           date_end: ''
-          description: Taught Computer Organization at a Bsc Level and Parallel and Distributed Computing at a Msc Level.
+          description: Teaching Computer Organization at a Bsc Level and Parallel and Distributed Computing at a Msc Level.
     design:
       columns: '2'
   - block: experience
@@ -78,6 +80,13 @@ sections:
           location: Lisboa, Portugal
           date_start: '2019-09-09'
           date_end: '2022-07-08'
+        - title: Entrepreneurship Summer Programme
+          company: European Innovation Academy
+          company_url: 'https://www.inacademy.eu/'
+          company_logo: eia
+          location: Cascais, Portugal
+          date_start: '2019-08-01'
+          date_end: '2022-08-20'
     design:
       columns: '2'
   - block: accomplishments
@@ -93,30 +102,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.cambridgeenglish.org/exams-and-tests/proficiency/
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-01-08'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Cambridge English Qualifications
+          organization_url: https://www.cambridgeenglish.org/exams-and-tests/proficiency/
+          title: C2 Proficiency
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://courses.elearning.tecnico.ulisboa.pt/certificates/cd68373f17024d188cc911a6500eb0fc
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2023-02-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          organization: Instituto Superior Técnico - MOOC Platform
+          organization_url: https://courses.elearning.tecnico.ulisboa.pt/
+          title: Data Science - Classification
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
     design:
       columns: '2'
   - block: contact

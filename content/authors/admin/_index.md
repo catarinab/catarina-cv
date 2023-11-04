@@ -20,6 +20,8 @@ role: Msc Student, Teching Assistant and Researcher
 organizations:
   - name: Instituto Superior Técnico
     url: https://tecnico.ulisboa.pt/en/
+  - name: INESC-ID
+    url: https://www.inesc-id.pt/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Distributed and Parallel Computing, Artificial Intelligence and Cyber Security.
