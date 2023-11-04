@@ -65,7 +65,7 @@ sections:
         - title: Researcher
           company: INESC-ID
           company_url: 'https://www.inesc-id.pt/'
-          company_logo: inesc.jpeg
+          company_logo: inesc
           location: Lisboa, Portugal
           date_start: '2023-10-04'
           date_end: ''
