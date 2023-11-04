@@ -78,7 +78,7 @@ sections:
           company_logo: eia
           location: Cascais, Portugal
           date_start: '2019-08-01'
-          date_end: '2022-08-20'
+          date_end: '2019-08-20'
     design:
       columns: '2'
   - block: accomplishments
@@ -98,17 +98,15 @@ sections:
           date_end: ''
           date_start: '2022-01-08'
           description: ''
-          organization: Cambridge English Qualifications
+          organization: Cambridge
           organization_url: https://www.cambridgeenglish.org/exams-and-tests/proficiency/
           title: C2 Proficiency
-          icon: cambridge
           url: ''
         - certificate_url: https://courses.elearning.tecnico.ulisboa.pt/certificates/cd68373f17024d188cc911a6500eb0fc
           date_end: ''
           date_start: '2023-02-01'
-          description: ''
-          organization: Instituto Superior Técnico - MOOC Platform
-          icon: ist
+          description: ' Instituto Superior Técnico - MOOC Platform'
+          organization: IST
           organization_url: https://courses.elearning.tecnico.ulisboa.pt/
           title: Data Science - Classification
           url: 
