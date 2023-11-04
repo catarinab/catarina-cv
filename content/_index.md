@@ -118,7 +118,6 @@ sections:
       title: Contact me
       # Contact (add or remove contact options as necessary)
       email: catarina.c.bento@tecnico.ulisboa.pt
-      phone: 00351 911710980
       # Automatically link email and phone or display as text?
       autolink: true
     design:
