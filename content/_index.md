@@ -13,16 +13,6 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: Technical Skills
-      text: "**Languages:** Java | Python | C | C++ | JavaScript | Prolog | HTML | CSS | SQL 
-      **Frameworks:** OpenMP | OpenMPI | pandas | matplotlib | sklearn | VueJs | Spring Boot 
-      **Tools:** Amazon AWS | Pentaho Data Integration & Server | Saiku Analytics | MySQL | Figma | Git | Adobe XD | Android Studio"
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
   - block: experience
     id: experience
     content:
@@ -122,6 +112,16 @@ sections:
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: Technical Skills
+      text: "**Languages:** Java | Python | C | C++ | JavaScript | Prolog | HTML | CSS | SQL \
+      **Frameworks:** OpenMP | OpenMPI | pandas | matplotlib | sklearn | VueJs | Spring Boot \
+      **Tools:** Amazon AWS | Pentaho Data Integration & Server | Saiku Analytics | MySQL | Figma | Git | Adobe XD | Android Studio"
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   - block: contact
     id: contact
     content:
