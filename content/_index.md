@@ -101,22 +101,24 @@ sections:
           organization: Cambridge English Qualifications
           organization_url: https://www.cambridgeenglish.org/exams-and-tests/proficiency/
           title: C2 Proficiency
+          icon: cambridge
           url: ''
         - certificate_url: https://courses.elearning.tecnico.ulisboa.pt/certificates/cd68373f17024d188cc911a6500eb0fc
           date_end: ''
           date_start: '2023-02-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: Instituto Superior Técnico - MOOC Platform
+          icon: ist
           organization_url: https://courses.elearning.tecnico.ulisboa.pt/
           title: Data Science - Classification
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
     design:
       columns: '2'
   - block: markdown
     content:
       title: Technical Skills
-      text: "**Languages:** Java | Python | C | C++ | JavaScript | Prolog | HTML | CSS | SQL \
-      **Frameworks:** OpenMP | OpenMPI | pandas | matplotlib | sklearn | VueJs | Spring Boot \
+      text: "**Languages:** Java | Python | C | C++ | JavaScript | Prolog | HTML | CSS | SQL \n
+      **Frameworks:** OpenMP | OpenMPI | pandas | matplotlib | sklearn | VueJs | Spring Boot \n
       **Tools:** Amazon AWS | Pentaho Data Integration & Server | Saiku Analytics | MySQL | Figma | Git | Adobe XD | Android Studio"
     design:
       # See Page Builder docs for all section customization options.
