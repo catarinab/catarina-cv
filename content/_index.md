@@ -71,14 +71,14 @@ sections:
           date_end: ''
           description: |2-
               Parallelization of the Krylov Method for the Calculation of the Mittag-Leffler Function
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Teaching Assistant
+          company: Instituto Superior Técnico
+          company_url: 'https://tecnico.ulisboa.pt/en/'
+          company_logo: ist
+          location: Lisboa, Portugal
+          date_start: '2022-09-19'
+          date_end: ''
+          description: Taught Computer Organization at a Bsc Level and Parallel and Distributed Computing at a Msc Level.
     design:
       columns: '2'
   - block: accomplishments
