@@ -51,6 +51,35 @@ sections:
           description: Taught Computer Organization at a Bsc Level and Parallel and Distributed Computing at a Msc Level.
     design:
       columns: '2'
+  - block: experience
+    id: education
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Master Degree in Computer Science and Engineering
+          company: Instituto Superior Técnico
+          company_url: 'https://tecnico.ulisboa.pt/en/'
+          company_logo: ist
+          location: Lisboa, Portugal
+          date_start: '2022-09-19'
+          date_end: ''
+        - title: Bologna Degree in Computer Science and Engineering
+          company: Instituto Superior Técnico
+          company_url: 'https://tecnico.ulisboa.pt/en/'
+          company_logo: ist
+          location: Lisboa, Portugal
+          date_start: '2019-09-09'
+          date_end: '2022-07-08'
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
